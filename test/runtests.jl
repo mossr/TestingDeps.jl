@@ -1,0 +1,3 @@
+using TestingDeps
+
+@test true
