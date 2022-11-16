@@ -3,7 +3,7 @@ name: CI
 # Run on master, tags, or any pull request
 on:
   push:
-    branches: [master]
+    branches: [main]
     tags: ["*"]
   pull_request:
 
